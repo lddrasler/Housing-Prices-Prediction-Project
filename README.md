@@ -1,15 +1,45 @@
-1	Startup competitive to Zillow
+# 1	Startup competitive to Zillow
 
-In this repository I will present analysis to a startup competitor to Zillow, I will use the follows sources:
 
-•	King County House Sales Dataset
 
-2	Business Problem
 
-To assist a company to enter the online Real Estate business we will analyze the available data and construct a multiple regression-based algorism to better predict house unknown house prices.
 
-3	Data
+### In this repository I will present analysis to create an algorithm for a startup competitor to Zillow, I will use the follow source:
 
-The data present in this project was provided by Flatiron School. These data were analyzed based on parameters  including: sqft, number of bedrooms, number of bathrooms, etc.  
+   * King County Open Data Source
 
-4       Results 
+
+# 2	Business Problem
+
+
+#### To assist a company to enter the online Real Estate business we will analyze the available data and construct a multiple regression-based algorism to better predict  unknown house prices.
+
+# 3 Data
+
+#### The data present in this project was provided by Flatiron School. These data were analyzed based on parameters  including: sqft, number of bedrooms, number of bathrooms, etc.  
+   Data provide by Flatiron School corresponding zip codes taken from King County Open Data Source
+   
+    * Our variables include:
+    * View;  
+    * Waterfront;
+    * Number of Bedrooms;
+    * Number of Bathrooms,
+    * SQFT living;
+    * Grade (condition);
+    * Year Built;
+    * Renovated,  etc.
+    
+
+
+# 4 Technical Results 
+
+With technical results we can see that the Model fuctions well. It give us a prediction of 77% of changes in the house prices based on the houses characteristcs and an Error of $........
+
+#### R^2 final model 
+ 	0.77
+
+#### Train RMSE
+
+
+#### Test RMSE
+
