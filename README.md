@@ -33,7 +33,7 @@
 
 # 4 Technical Results 
 
-With technical results we can see that the Model fuctions well. It give us a prediction of 82% of changes in the house prices based on the houses characteristcs and an Error of $........
+With technical results we can see that the Model fuctions well. It give us a prediction of 82% of changes in the house prices based on the houses characteristcs and a mean squared error about $117,000.00 for train and test data.
 
 #### R^2 final model 
  	0.826
@@ -43,8 +43,3 @@ With technical results we can see that the Model fuctions well. It give us a pre
 
 #### Test RMSE
     $ 117,182.99
-
-
-```python
-
-```
